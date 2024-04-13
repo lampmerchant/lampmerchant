@@ -1,4 +1,10 @@
-### Hi there 👋
+### About This Tashtari...
+
+Hi, I'm Tashtari!
+
+I'm very interested in retrocomputing, particularly with classic Macintosh computers, and most of my projects pertain to this.  I am active on the [68kMLA](https://68kmla.org/bb/index.php?members/tashtari.20274/) forum.
+
+Below, you'll find a selection of my favorite projects; there are more under the [repositories](https://github.com/lampmerchant?tab=repositories) tab.
 
 <!--
 **lampmerchant/lampmerchant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
